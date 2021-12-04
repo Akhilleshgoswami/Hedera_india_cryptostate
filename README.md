@@ -42,7 +42,7 @@
 * Hedera (if we would be able to solve TRANSACTION_OVERSIZE error )
 
 # Note 
-* this project's interigation with front-end  not completed due TRANSACTION_OVERSIZE error (The size of the Transaction is greater than transactionMaxBytes) , we tried a lot of way's to solve this but not able to solve this error,  code for backend is upto date and working fine, we just need to deploy our project to Hedera  node . we used test net for testing it showing that how does it would work's if we would able to connect this backend to Hedera.
+* this project's interigation with front-end  not completed due TRANSACTION_OVERSIZE error (The size of the Transaction is greater than transactionMaxBytes) , we tried a lot of way's to solve this but not able to solve this error,  code for backend is upto date and working fine,we also added a demo of over site so that you get an idea how does it will gona work's once we get success to deploy our contract on  hedera node . we just need to deploy our smart contract to Hedera  node . we used test net for testing it showing that how does it would work's if we would able to connect this backend to Hedera.
 
 
 <!-- # Glimpse of Project Healer ✨ -->
